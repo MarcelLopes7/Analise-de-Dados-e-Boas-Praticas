@@ -33,7 +33,7 @@
 
 <h2>💻 Tecnologias</h2>
 <p>
-    Foi utilizada a linguagem Python na construção do projeto, com suas respectivas bibliotecas importadas para execução de diferentes funcionalidades.
+    Foi utilizada a linguagem Python na construção do projeto, com suas respectivas bibliotecas importadas para execução de diferentes funcionalidades, como criação de gráficos (barras, dispersão, matrizes de correlaçao, matrizes de verificação de missings, boxplots), geração de mapas, tradução de idiomas.
 </p>
 
 <h2>🧑‍💻 Autor</h2>
