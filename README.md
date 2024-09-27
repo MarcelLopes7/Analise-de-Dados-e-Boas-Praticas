@@ -1,8 +1,8 @@
 <strong>Introdução:</strong>
-Esse repositório contém arquivos e datasets para análise dos dados e criação de modelos de machine learning para a solução de problemas com base nos dados.
+Esse repositório contém arquivos e datasets para análise dos dados e criação de modelos de machine learning para a solução de problemas com base nos dados. É um MVP da Sprint Análise de Dados e Boas Práticas, referente à Pós Gradução em Ciência de Dados e Analytics, da PUC-RJ.
 
 <strong>Projeto:</strong>
-Um dos trabalhos presentes neste repositório consiste na análise e exploração de dados de um dataset com índices referentes a todos os países do mundo em 2023 (Global Country Information Dataset 2023). 
+O trabalho presente neste repositório consiste na análise e exploração de dados de um dataset com índices referentes a todos os países do mundo em 2023 (Global Country Information Dataset 2023). 
 Esse dataset representa dentro de um linha temporal, um registro anual de diversos índices econômicos, sociais e geográficos. Entender a distribuição dos dados e suas correlações contribuir para a identificação de problemas e posteriormente a proposição de soluções para os mesmos.
 
 A análise consiste na exploração de todo o dataset e após entender algumas correlações e distribuições, selecionar um grupo específico de índices para uma análise mais aprofundada. Os índices selecionados nesse projeto foram relacionados às áreas da saúde e de desenvolvimento humano.
